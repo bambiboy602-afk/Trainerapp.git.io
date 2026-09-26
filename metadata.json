@@ -1,0 +1,6 @@
+{
+  "name": "ClinicalSim",
+  "description": "Specialized clinical training and role-play platform simulating authentic mental health encounters, DSM-5-TR formulation, affective distress tracking, and supervisor coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
